@@ -1,0 +1,38 @@
+# ===== Gradle =====
+.gradle/
+build/
+
+# ===== Local config =====
+local.properties
+
+# ===== Android Studio / IntelliJ =====
+.idea/
+*.iml
+
+# ===== AndroidIDE / ACSide =====
+.acside/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Build outputs =====
+*.apk
+*.aab
+*.aar
+*.zip
+
+# ===== Firebase / secrets =====
+google-services.json
+*.jks
+*.keystore
+key.properties
+
+# ===== Native build =====
+.externalNativeBuild/
+.cxx/
+
+# ===== Eclipse leftovers =====
+.project
+.settings/
+.classpath
